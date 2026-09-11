@@ -18,7 +18,7 @@ Follow these steps to set up and run the project after cloning the repository.
 Open a terminal and run:
 
 ```sh
-git clone git@github.com:NAYAN-ACHARYA/chat-app--deployed.git  
+https://github.com/Name-18/chat-app--deployed.git
 cd chat-app--deployed 
 ```
 
