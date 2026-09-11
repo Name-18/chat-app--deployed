@@ -6,12 +6,6 @@ A real-time chat application built using the **MERN (MongoDB, Express, React, No
 
 ---
 
-## 🔑 Demo Credentials
-
-Use the following credentials to quickly test the live app:
-
-* **Email:** [nayannomm@gmail.com](mailto:nayannomm@gmail.com)
-* **Password:** homelander
 
 ---
 
